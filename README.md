@@ -1,2 +1,2 @@
-# package
-This is a mock-up for easy creation of packages with a pre-builded configuration.
+# Package Name
+A litle description about the package
