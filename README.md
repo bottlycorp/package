@@ -1,2 +1,2 @@
 # Package Name
-A litle description about the package
+A little description about the package
